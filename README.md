@@ -22,7 +22,8 @@ ___
 Данные о температуре, влажности, скорости ветра и общем описании погоды я парсил c сайта [wunderground.com](https://www.wunderground.com) (в России открывается с VPN). 
 
 #### 1.4: [Объединение и обработка собранных данных](https://github.com/Zianielir/Football-EPL-2018-2024-Data-Analysis/blob/main/%5B4%5D%20Data_merge.ipynb)
-В этом файле данные обрабатываются и соединяются в единую [таблицу](вставить ссылку).
+В этом файле данные обрабатываются и соединяются в единую [таблицу](https://github.com/Zianielir/Football-EPL-2018-2024-Data-Analysis/blob/main/EPL_data_after_EDA.csv).
+Все промежуточные данные можно посмотреть по ссылке на [гугл диск](https://drive.google.com/drive/folders/1d1S0_mqFa4Ew_us3kP7FMiBkaUdEooSW?usp=sharing)
 
 ### Часть 2: [EDA](https://github.com/Zianielir/Football-EPL-2018-2024-Data-Analysis/blob/main/%5B5%5D%20EDA.ipynb)
 В этом файле есть много визуализаций данных, на основе которых было построено много гипотез в следующей части
